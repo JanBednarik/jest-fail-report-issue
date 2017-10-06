@@ -1,0 +1,1 @@
+# jest-fail-report-issue
