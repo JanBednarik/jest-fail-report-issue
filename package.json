@@ -1,0 +1,9 @@
+{
+  "name": "jest-fail-report-issue",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^21.2.1"
+  }
+}
